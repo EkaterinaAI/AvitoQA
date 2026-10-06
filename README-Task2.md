@@ -14,8 +14,8 @@
 - Selenium WebDriver, JUnit 5, WebDriverManager (автоматическая настройка ChromeDriver)
 
 ## Структура проекта
-- **src/test/java/e2e** – тестовый класс
-- **src/test/java/pages** – классы Page Object с использованием Page Factory
+- **src/main/test/java/e2e** – тестовый класс
+- **src/main/test/java/pages** – классы Page Object с использованием Page Factory
 - **TESTCASES-Task2.md** – описание тест-кейсов
 - **BUGS-Task2.md** – баг-репорты
 
